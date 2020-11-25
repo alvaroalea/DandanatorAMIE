@@ -7,7 +7,8 @@ UNDER LICENSE Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internat
 - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 Original Desing by Dandare, mad3001 and OverClk
-PCB Desing of the V2.1AMIE edition by ALvaroAlea
+
+PCB Desing of the V2.1AMIE edition by AlvaroAlea
 
 This is a project to integrate in only one PCB (well, in three) the ZX Dandanator Cartridge for ZX Spectrum and the Multiply Addon.
 
