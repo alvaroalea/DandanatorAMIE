@@ -1384,11 +1384,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/Product_TF Micro SD Card Memory Modul Arduino.stp" hide
-      (offset (xyz 38.55 -6.35 2.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KIPRJMOD}/MicroSD Reader Assembly.stp"
       (offset (xyz 9.6 -3 6))
       (scale (xyz 1 1 1))
