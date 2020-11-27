@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -59,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "ffc90ff_ffffffff"
+    "visible_layers": "ffc90cf_ffffffff"
   },
   "meta": {
     "filename": "ZX Dandanator Mini 2.1b.kicad_prl",
