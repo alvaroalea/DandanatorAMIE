@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "5.99.0-unknown-2f00a2ada~93~ubuntu20.04.1"
     },
-    "CreationDate": "2020-11-28T09:21:34+01:00"
+    "CreationDate": "2020-11-28T10:23:10+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -46,6 +46,11 @@
     {
       "Path": "ZX Dandanator Mini 2.1b-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ZX Dandanator Mini 2.1b-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
